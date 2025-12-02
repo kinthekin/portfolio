@@ -28,4 +28,5 @@ Programming languages: HTML, python, java, SQL
 
 English, Irish (more coming hopefully) 
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.] 
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](![rh2](https://github.com/user-attachments/assets/04e4d7da-d4de-40aa-8cad-51199caea1ff)
+) 
