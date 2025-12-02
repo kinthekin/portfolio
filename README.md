@@ -27,3 +27,5 @@ Programming languages: HTML, python, java, SQL
 # Human Languages
 
 English, Irish (more coming hopefully) 
+
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.] 
