@@ -10,6 +10,7 @@ Name: callum
 
 # Personal and Professional Development Goals
 
+* Acquire a Bachelors degree in comp sci
 
 * Create a portfolio fit for use in applying to University/ Jobs
 
