@@ -5,6 +5,9 @@ portfolio
 ## inshallah this is the second header
 
 
+Name: callum
+
+
 # Personal and Professional Development Goals
 
 
@@ -13,4 +16,13 @@ portfolio
 * Improving whatever the hell my CV is
 
 * Becoming acquainted with software such as GitHub
+
+* 
  
+# Languages
+
+Programming languages: HTML, python, java, SQL
+
+# Human Languages
+
+English, Irish (more coming hopefully) 
