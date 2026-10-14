@@ -11,7 +11,7 @@ C:\Users\callu\OneDrive - Dublin & Dun Laoghaire Education Training Board\Databa
 https://etbddl-my.sharepoint.com/:w:/r/personal/20251695_dcfe_ie/Documents/Project%20Proposal%20Report.docx?d=wc0dd271855124d67995d244bc5402f84&csf=1&web=1&e=pUVq7D
 
 My CV can also be found here:
-file:///C:/Users/callu/Desktop/Callum%20Dunne_CV.pdf
+https://docs.google.com/document/d/1n23Zg5WYyu571xnvZ_Hqbuo1ErEiwE922gvQJOGMd6A/edit?tab=t.0
 You can reach me through my Professional Email @callumdkillen@gmail.com.
 
 
@@ -23,9 +23,7 @@ You can reach me through my Professional Email @callumdkillen@gmail.com.
 
 * Create a portfolio fit for use in applying to University/ Jobs
 
-* Improving whatever the hell my CV is
-
-* Becoming acquainted with software such as GitHub
+* Becoming acquainted with more advanced IT software
 
 * 
  
